@@ -11,9 +11,11 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=cyan)
-![JFrog](https://img.shields.io/badge/JFrog\g-181717?style=for-the-badge&logo=JFrog&logoColor=lime)
+![JFrog](https://img.shields.io/badge/JFrog\g-181717?style=for-the-badge&logo=JFrog&logoColor=green)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-Thanks For Reading My Bio!
+
+##Thanks For Reading My Bio!
+
 
 <!--
 **smurf143/smurf143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
