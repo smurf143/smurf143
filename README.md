@@ -14,7 +14,7 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=cyan)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000000&pause=10000&color=36BCF7&center=false&vCenter=true&width=500&lines=Thank+You+For+Reading+My+Bio!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=100000&pause=10000&color=36BCF7&center=false&vCenter=true&width=500&lines=Thank+You+For+Reading+My+Bio!;)](https://git.io/typing-svg)
 
 
 <!--
