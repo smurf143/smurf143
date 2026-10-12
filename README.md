@@ -1,4 +1,3 @@
-<img width="360" height="259" alt="Screenshot 2026-10-12 at 12 36 34 PM" src="https://github.com/user-attachments/assets/ccd10765-e3dd-4abd-b487-4bbffb7d2fcc" />
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hi+There!+👋;I+Like+To+Code+With...;Python,;Java,;Javascript,;HTML,;And+CSS.;I+Also+Like+Dogs,;Planes,;Racing,;And+Star+Wars.;)](https://git.io/typing-svg)
 ## Languages
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white)
