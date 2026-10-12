@@ -1,3 +1,4 @@
+<img width="360" height="259" alt="Screenshot 2026-10-12 at 12 36 34 PM" src="https://github.com/user-attachments/assets/ccd10765-e3dd-4abd-b487-4bbffb7d2fcc" />
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hi+There!+👋;I+Like+To+Code+With...;Python,;Java,;Javascript,;HTML,;And+CSS.;I+Also+Like+Dogs,;Planes,;Racing,;And+Star+Wars.;)](https://git.io/typing-svg)
 ## Languages
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white)
@@ -16,6 +17,7 @@
 
 <img width="225" height="138" alt="dog-funny" src="https://github.com/user-attachments/assets/2efe047f-47ec-4c51-b332-c2a6e666b543" />
 <img width="225" height="138" alt="mustangia" src="https://github.com/user-attachments/assets/4e41a9a5-bfd8-475e-84a7-031d5c7d4ea0" />
+<img width="225" height="138" alt="Screenshot 2026-10-12 at 12 36 34 PM" src="https://github.com/user-attachments/assets/0c16c892-6f01-48c7-9b67-046016b3feac" />
 
 Thank You For Reading My Bio!
 
