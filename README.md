@@ -16,7 +16,8 @@
 
 <img width="220" height="138" alt="dog-funny" src="https://github.com/user-attachments/assets/2efe047f-47ec-4c51-b332-c2a6e666b543" />
 <img width="220" height="138" alt="mustangia" src="https://github.com/user-attachments/assets/4e41a9a5-bfd8-475e-84a7-031d5c7d4ea0" />
-<img width="220" height="138" alt="image" src="https://github.com/user-attachments/assets/9ae26d16-7915-4544-bb64-2ea1c53a6239" />
+<<img width="220" height="138" alt="planetaria" src="https://github.com/user-attachments/assets/f61f3497-2a69-457c-9404-090b23c21995" />
+
 
 Thank You For Reading My Bio!
 
