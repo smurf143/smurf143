@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hi+There!+👋;I+Like+To+Code+With...;Python,;Java,;Javascript,;HTML,;And+CSS.;I+Also+Like+Dogs,;Planes,;And+Star+Wars.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hi+There!+👋;I+Like+To+Code+With...;Python,;Java,;Javascript,;HTML,;And+CSS.;I+Also+Like+Dogs,;Planes,;Racing,;And+Star+Wars.;)](https://git.io/typing-svg)
 ## Languages
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <img width="220" height="138" alt="dog-funny" src="https://github.com/user-attachments/assets/2efe047f-47ec-4c51-b332-c2a6e666b543" />
-<img width="500" height="333" alt="mustangia" src="https://github.com/user-attachments/assets/4e41a9a5-bfd8-475e-84a7-031d5c7d4ea0" />
+<img width="220" height="138" alt="mustangia" src="https://github.com/user-attachments/assets/4e41a9a5-bfd8-475e-84a7-031d5c7d4ea0" />
 
 Thank You For Reading My Bio!
 
