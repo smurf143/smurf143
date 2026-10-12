@@ -7,7 +7,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## Tools
-![OneComplier</>](https://img.shields.io/badge/OneComplier</>-181717?style=for-the-badge&logo=onecomplier</>&logoColor=white)
+![OneComplier</>](https://img.shields.io/badge/OneComplier</>-181717?style=for-the-badge&logo=onecomplier</>&logoColor=blue)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![JFrog](https://img.shields.io/badge/JFrog/-181717?style=for-the-badge&logo=JFrog&logoColor=white)
