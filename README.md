@@ -13,7 +13,7 @@
 ![JFrog](https://img.shields.io/badge/JFrog</>-181717?style=for-the-badge&logo=JFrog&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=cyan)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%Studio-181717?style=for-the-badge&logo=androidstudio&logoColor=green)
+![Android Studio](https://img.shields.io/badge/Android%Studio-181717?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 <img width="225" height="138" alt="dog-funny" src="https://github.com/user-attachments/assets/2efe047f-47ec-4c51-b332-c2a6e666b543" />
 <img width="225" height="138" alt="mustangia" src="https://github.com/user-attachments/assets/4e41a9a5-bfd8-475e-84a7-031d5c7d4ea0" />
