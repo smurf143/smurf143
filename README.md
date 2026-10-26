@@ -18,6 +18,8 @@
 <img width="225" height="138" alt="mustangia" src="https://github.com/user-attachments/assets/4e41a9a5-bfd8-475e-84a7-031d5c7d4ea0" />
 <img width="225" height="138" alt="Screenshot 2026-10-12 at 12 36 34 PM" src="https://github.com/user-attachments/assets/0c16c892-6f01-48c7-9b67-046016b3feac" />
 
+:trollface:
+
 Thank You For Reading My Bio!
 
 <!--
