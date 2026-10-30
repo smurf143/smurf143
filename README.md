@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Hi+There!+👋;I+Like+To+Code+With...;Python,;Java,;Javascript,;HTML,;And+CSS.;I+Also+Like+Dogs,;Planes,;Racing,;And+Star+Wars.;)](https://git.io/typing-svg)
-## Languages
+## Tech Stack
 ![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
